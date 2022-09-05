@@ -1,0 +1,10 @@
+server {
+    listen 2443 ssl http2;
+
+    ssl_certificate       ssl/nginx-selfsigned.crt;
+    ssl_certificate_key   ssl/nginx-selfsigned.key;
+
+    server_name _;
+
+    return 403;
+}
