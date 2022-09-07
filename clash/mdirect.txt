@@ -1,2 +1,2 @@
 payload:
-  - '+.maling.one'
+  - '+.baidu.com'
