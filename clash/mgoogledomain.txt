@@ -20,3 +20,4 @@ payload:
   - '+.youtube.com'
   - '+.youtubemobilesupport.com'
   - '+.ytimg.com'
+  - '+.domains.google'
