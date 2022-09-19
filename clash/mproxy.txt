@@ -2,3 +2,5 @@ payload:
   - '+.samsung.com'
   - '+.samsungcloud.com'
   - '+.cloudfront.net'
+  - '+.garmin.com'
+  - '+.strava.com'
