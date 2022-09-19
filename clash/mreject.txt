@@ -71,3 +71,5 @@ payload:
   - '+.youtube.soy'
   - '+.youtube.tv'
   - '+.crashlytics.com'
+  - '+.chinaupa.com'
+  - '+.taf.org.cn'
