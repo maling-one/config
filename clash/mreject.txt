@@ -22,7 +22,7 @@ payload:
   - '+.adservice.google.com'
   - '+.app-measurement-cn.com'
   - '+.app-measurement.com'
-  - '+.c.admob.com'
+  - '+.admob.com'
   - '+.googleanalytics.com'
   - '+.dartsearch-cn.net'
   - '+.doubleclick-cn.net'
