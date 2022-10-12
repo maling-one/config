@@ -1,4 +1,5 @@
 payload:
+  - '+.toutiao.com'
   - '+.dartsearch.net'
   - '+.admob.com'
   - '+.al.mzstatic.com'
