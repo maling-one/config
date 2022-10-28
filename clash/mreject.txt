@@ -80,3 +80,4 @@ payload:
   - '+.2345.com'
   - '+.2345.net'
   - '+.dciwx.com'
+  - '+.samsungnewsapi.picks.my'
