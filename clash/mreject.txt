@@ -1,8 +1,6 @@
 payload:
-  - '+porn.com'
   - '+.toutiao.com'
   - '+.dartsearch.net'
-  - '+.admob.com'
   - '+.al.mzstatic.com'
   - '+.appcenter.ms'
   - '+.youtu.be'
