@@ -82,3 +82,8 @@ payload:
   - '+.dciwx.com'
   - '+.samsungnewsapi.picks.my'
   - '+.ifconfig.co'
+  - '+.mcafee.com'
+  - '+.xfinfr.com'
+  - '+.voicecloud.cn'
+  - '+.yastatic.net'
+  - '+.vmos.cn'
