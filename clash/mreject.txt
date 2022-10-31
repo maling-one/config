@@ -87,4 +87,5 @@ payload:
   - '+.voicecloud.cn'
   - '+.yastatic.net'
   - '+.vmos.cn'
-  - '+trace.qq.com'
+  - '+.btrace.qq.com'
+  - '+.adexpo.tencentmusic.com'
