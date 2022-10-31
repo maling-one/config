@@ -88,4 +88,5 @@ payload:
   - '+.yastatic.net'
   - '+.vmos.cn'
   - '+.btrace.qq.com'
+  - '+.trace.qq.com'
   - '+.adexpo.tencentmusic.com'
