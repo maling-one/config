@@ -15,6 +15,8 @@ payload:
   - '+.gvt2.com'
   - '+.pki.goog'
   - '+.recaptcha.net'
+  - '+.tv.google'
+  - '+.domains.google'
   - '+.youtu.be'
   - '+.youtube.be'
   - '+.youtube.com'
