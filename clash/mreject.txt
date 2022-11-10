@@ -88,3 +88,8 @@ payload:
   - '+.btrace.qq.com'
   - '+.trace.qq.com'
   - '+.adexpo.tencentmusic.com'
+  - '+.crashlytics.com'
+  - 'firebaseinstallations.googleapis.com'
+  - 'apd-pcdnwxlogin.teg.tencent-cloud.net'
+  - '+.realbyteapps.com'
+  - '+.zdassets.com'
